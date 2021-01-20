@@ -29,4 +29,6 @@ Multi browsers support
 
 Multi Shops Support etc.
 
+![](images/dashboard.png)
+
 Demo link https://pos.miniworks.io/app
