@@ -29,4 +29,4 @@ Multi browsers support
 
 Multi Shops Support etc.
 
->>Demo link https://pos.miniworks.io/app
+Demo link https://pos.miniworks.io/app
